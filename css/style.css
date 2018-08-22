@@ -190,7 +190,7 @@ header a {
     margin-right: 0px;
   }
 }
-@media (min-width: 825px) {
+@media (min-width: 950px) {
   .navbar-expand-custom {
     flex-direction: row;
     flex-wrap: nowrap;
