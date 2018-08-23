@@ -1,0 +1,9 @@
+menu:
+  Home: /
+  Event Details: /EventDetails/
+  Tickets: /tickets/
+  Sponsorship Opportunities: /sponsorship/
+  Sponsors: /sponsors/
+  Volunteer: /volunteer/
+
+favicon: /css/images/favicon.ico
