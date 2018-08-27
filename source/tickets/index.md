@@ -6,24 +6,6 @@ jumbotronTitle: "Tickets"
 ---
 {% raw %}
 <!-- Facebook Pixel Code -->
-<script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '1948132601913370');
-  fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=1948132601913370&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
-
-
 If you would prefer to pay offline via check, <a href="../forms/2018/2018 registration.pdf">please click here to download a pdf version of our order form</a>.
 <br><br>
 If you have any questions, please email us at: <a href="mailto:contact@stmarysgolf.org">contact@stmarysgolf.org</a>
