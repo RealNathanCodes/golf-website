@@ -11,9 +11,18 @@ We are so thankful for all of our sponsors!  Please patronize these businesses t
 
 <div class="sponsor-section beverage-cart-sponsors"><h1>Beverage Cart Sponsors</h1>    
     <div class="sponsor-information">
-        <span class="sponsor-name">Key Bank</span>
+        <img src="/css/images/2018_logos/key_bank.png">
+        <br><span class="sponsor-name">Key Bank</span>
         <br><span>1-800-KEY2YOU® (539-2968)</span>
         <br><span><a href="https://www.key.com/">www.key.com</a></span>
+    </div>
+</div>
+
+<div class="sponsor-section team-sponsors"><h1>Team Sponsors</h1>    
+    <div class="sponsor-information">
+        <img src="/css/images/2018_logos/cnb.jpg">
+        <br><span class="sponsor-name">Canandaigua National Bank & Trust</span>
+        <br><span>(585) 394-4260</span>
     </div>
 </div>
 
