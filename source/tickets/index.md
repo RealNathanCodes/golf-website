@@ -20,6 +20,8 @@ If you have any questions, please email us at: <a href="mailto:contact@stmarysgo
 <table>
 <tr><td><input type="hidden" name="on0" value="Player 1 Name">Player 1 Name</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
 <tr><td><input type="hidden" name="on1" value="Player 2 Name">Player 2 Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+<tr><td><input type="hidden" name="on2" value="Player 3 Name">Player 3 Name</td></tr><tr><td><input type="text" name="os2" maxlength="200"></td></tr>
+<tr><td><input type="hidden" name="on3" value="Player 4 Name">Player 4 Name</td></tr><tr><td><input type="text" name="os3" maxlength="200"></td></tr>
 </table>
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
