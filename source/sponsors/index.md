@@ -18,6 +18,14 @@ We are so thankful for all of our sponsors!  Please patronize these businesses t
     </div>
 </div>
 
+<div class="sponsor-section beverage-cart-sponsors"><h1>Special Thanks</h1>    
+    <div class="sponsor-information">
+        <span class="sponsor-name">Wegmans Food Markets</span>
+        <br><span>(585) 394-4820</span>
+        <br><span><a href="https://www.wegmans.com/">www.wegmans.com</a></span>
+    </div>
+</div>
+
 <div class="sponsor-section team-sponsors"><h1>Team Sponsors</h1>    
     <div class="sponsor-information">
         <img src="/css/images/2018_logos/cnb.jpg">
@@ -26,7 +34,25 @@ We are so thankful for all of our sponsors!  Please patronize these businesses t
     </div>
 </div>
 
-<div class="sponsor-section door-prize-sponsors"><h1>Door Prize Sponsors</h1>
+<div class="sponsor-section tee-and-cart-sponsors"><h1>Tee Sponsors</h1>    
+    <div class="sponsor-information">
+        <span class="sponsor-name">Finger Lakes Monument</span>
+        <br><span>(585) 394-1340</span>
+    </div>
+    <div class="sponsor-information">
+        <img src="/css/images/2018_logos/pharos-logo-header.png">
+        <br><span class="sponsor-name">Pharos Systems International</span>
+        <br><span>(585) 939-7000</span>
+    </div>
+</div>
+
+<div class="sponsor-section tee-and-cart-sponsors"><h1>Golf Cart Sponsors</h1>    
+    <div class="sponsor-information">
+        <span class="sponsor-name">Daniel DeLaus & Sandra DeLaus</span>
+    </div>
+</div>
+
+<div class="sponsor-section door-prize-sponsors"><h1>In Kind Sponsors</h1>
     <div class="sponsor-information">
         <span class="sponsor-name">Orange Theory Fitness</span>
         <br><span>Victor, NY</span>
