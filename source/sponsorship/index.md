@@ -1,7 +1,7 @@
 ---
 title: Sponsors
-date: 2018-07-23 22:19:54
-description: "Become a sponsor for the 2018 St Mary's golf tournament"
+date: 2019-06-18 22:19:54
+description: "Become a sponsor for the 2019 St Mary's golf tournament"
 jumbotronTitle: "Sponsorship Opportunities"
 ---
 {% raw %}
@@ -9,41 +9,15 @@ As a corporate donor, there are many different levels of sponsorship opportuniti
 <br><br>
 Your consideration of a tax deductible gift this year would surely make a difference on several levels for all the students of St. Mary’s School who continually engage in many activities that benefit the community.
 <br><br>
-<a href="../forms/2018/2018 Sponsor Donation Form.pdf">Please click here to view and download a pdf version of our Sponsor Order Form if you prefer to pay offline by check.</a>
+<a href="../forms/2019/2019 Sponsor Donation Form.pdf">Please click here to view and download a pdf version of our Sponsor Order Form if you prefer to pay offline by check.</a>
 <br><br>
 Please note:  If you would like to donate in-kind donations (gift certificates, merchandise or services for our door prizes, raffles and awards), please email us - <a href="mailto:contact@stmarysgolf.org">contact@stmarysgolf.org</a>.
 
 <div class="sponsorship-section">
     <div class="sponsorship-header">
-        <span class="sponsorship-title">Presenting Sponsor</span>
-        <span class="sponsorship-purchase">
-        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="J9HTAQLUA8TB2">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-
-        </span>
-    </div>
-    <div class="sponsorship-price">$4,000</div>
-    <div class="sponsorship-byline">EXCLUSIVE opportunity to become our presenting sponsor!</div>
-    <ul>
-        <li>Prominent exposure as your company will be the tournament sponsor with your name and/or logo associated in the title of the event on all materials associated with the tournament, including the event web-site with a link directly to your business web-site, the school Facebook page and the welcome banner at the registration table.</li>
-        <li>Signage at the location for each of the major Contests.</li>
-        <li>Display table at the registration and lunch site.</li>
-        <li>Full page add in tournament program.</li>
-        <li>Verbal recognition with announcements during registration and lunch.</li>
-        <li>8 super tickets (full amenities of standard ticket – green fees, carts, food, beverages, etc.) PLUS the mulligans, door prize tickets, and ball drop contest entries = $1,200 value!</li>
-        <li>Signage on your golfers carts representing company plus two additional carts (total 6).</li>
-    </ul>
-</div>
-
-<div class="sponsorship-section">
-    <div class="sponsorship-header">
         <span class="sponsorship-title">Gold Sponsor</span>
-        <span class="sponsorship-purchase">
-        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+        <span class="sponsorship-purchase">Coming Soon!
+        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="display:none;">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="46YKNY2SMCR72">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -52,17 +26,17 @@ Please note:  If you would like to donate in-kind donations (gift certificates, 
 
         </span>
     </div>
-    <div class="sponsorship-price">$3,000</div>
+    <div class="sponsorship-price">$2,500</div>
     <div class="sponsorship-byline">Sponsor a Contest</div>
     <ul>
-        <li>Be the presenting sponsor of one of our major events during the tournament  o Putting contest o Longest drive o Closest to the pin</li>
+        <li>Be the presenting sponsor of one of our major events during the tournament  o Longest drive o Closest to the pin</li>
         <li>Prominent signage at selected contest.</li>
         <li>Recognition as contest sponsor on tournament advertising, web-site (with link to your website), and school Facebook Page.</li>
         <li>Display table at registration and dinner site.</li>
         <li>Full page add in tournament program</li>
         <li>Verbal recognition during dinner and contest awards ceremony.</li>
-        <li>4 golfers (full amenities of standard ticket – green fees, carts, food, beverages, etc.) PLUS free entry into 50/50 cash reward putting contest  = $560 value!</li>
-        <li>Signage on your golfers carts representing  company.</li>
+        <li>4 golfers (full amenities of standard ticket – green fees, carts, food, beverages, etc.)</li>
+        <li>Signage on your golfers carts representing company.</li>
     </ul>
 </div>
 

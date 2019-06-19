@@ -1,12 +1,11 @@
 ---
-title: "St. Mary's School 5th Annual Golf Tournament September 9, 2018"
-date: 2018-07-22 22:19:54
-description: "Get Tickets for 2018 St Mary's golf tournament"
+title: "St. Mary's School 6th Annual Golf Tournament August 17, 2019"
+date: 2019-06-18 22:19:54
+description: "Get Tickets for 2019 St Mary's golf tournament"
 jumbotronTitle: "Tickets"
 ---
 {% raw %}
-<!-- Facebook Pixel Code -->
-If you would prefer to pay offline via check, <a href="../forms/2018/2018 registration.pdf">please click here to download a pdf version of our order form</a>.
+If you would prefer to pay offline via check, <a href="../forms/2019/2019 registration.pdf">please click here to download a pdf version of our order form</a>.
 <br><br>
 If you have any questions, please email us at: <a href="mailto:contact@stmarysgolf.org">contact@stmarysgolf.org</a>
 <br>
@@ -30,7 +29,7 @@ If you have any questions, please email us at: <a href="mailto:contact@stmarysgo
     </div>
     <div class="ticket-price">$380</div>
     <div class="ticket-description">
-        Entry Fee for 4 golfers (includes green fees, golf cart, lunch &amp; buffet dinner).
+        Entry Fee for 4 golfers (includes green fees, golf cart, and dinner).
     </div>
 </div>
 <div class="ticket-section">
@@ -50,7 +49,7 @@ If you have any questions, please email us at: <a href="mailto:contact@stmarysgo
     </div>
     <div class="ticket-price">$95</div>
     <div class="ticket-description">
-        Entry Fee for 1 golfer (includes green fees, golf cart, lunch &amp; buffet dinner).
+        Entry Fee for 1 golfer (includes green fees, golf cart, and dinner).
     </div>
 </div>
 
@@ -68,7 +67,7 @@ If you have any questions, please email us at: <a href="mailto:contact@stmarysgo
     </div>
     <div class="ticket-price">$150</div>
     <div class="ticket-description">
-        Best Value! Includes Tournament Entry for 1 golfer, 1 Lunch Only Ticket for guest, 4 Mulligans, 5 Door Prize Tickets, one ball in the ball drop contest ($175 value)
+        Best Value! Includes Tournament Entry for 1 golfer, 1 Dinner Only Ticket for guest, 4 Mulligans, 5 Door Prize Tickets, one ball in the ball drop contest ($180 value)
     </div>
 </div>
 
@@ -131,9 +130,9 @@ If you have any questions, please email us at: <a href="mailto:contact@stmarysgo
 
 <div class="ticket-section">
     <div class="ticket-header">
-        <span class="ticket-title">Lunch Only Ticket</span>
-        <span class="ticket-purchase">
-        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+        <span class="ticket-title">Dinner Only Ticket</span>
+        <span class="ticket-purchase">Coming Soon
+        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="display:none;>
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="MVGKHTUE8BVUY">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -142,9 +141,9 @@ If you have any questions, please email us at: <a href="mailto:contact@stmarysgo
 
         </span>
     </div>
-    <div class="ticket-price">$25</div>
+    <div class="ticket-price">$30</div>
     <div class="ticket-description">
-        Includes wood fired pizzas, chicken wings, and appetizers at the conclusion of the tournament
+        Includes BBQ chicken, Macaroni and cheese, Caesar salad, and dessert at the conclusion of the tournament
     </div>
 </div>
 {% endraw %}
