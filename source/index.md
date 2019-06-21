@@ -2,7 +2,7 @@
 title: "St. Mary's School 6th Annual Golf Tournament August 17, 2019"
 date: 2019-06-18 22:19:54
 description: "St. Mary's School 6th Annual Golf Tournament August 17, 2019"
-jumbotronTitle: "<br>St. Mary's School <br>5th Annual Golf Tournament<br>August 17, 2019"
+jumbotronTitle: "<br>St. Mary's School <br>6th Annual Golf Tournament<br>August 17, 2019"
 ---
 The Parent-Teacher Organization of St. Mary’s School in Canandaigua is excited to host its 6th Annual SMS Golf Tournament. This fundraiser was a great success the last four years, and a fun time for all who attended. We have all of our sponsors, donors, players and volunteers to thank for helping us raise money to help our school!
 <br>
