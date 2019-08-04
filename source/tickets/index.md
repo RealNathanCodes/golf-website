@@ -127,23 +127,4 @@ If you have any questions, please email us at: <a href="mailto:contact@stmarysgo
         1 for $5 (purchase as many as you like)
     </div>
 </div>
-
-<div class="ticket-section">
-    <div class="ticket-header">
-        <span class="ticket-title">Dinner Only Ticket</span>
-        <span class="ticket-purchase">Coming Soon
-        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="display:none;>
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="MVGKHTUE8BVUY">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-
-        </span>
-    </div>
-    <div class="ticket-price">$30</div>
-    <div class="ticket-description">
-        Includes BBQ chicken, Macaroni and cheese, Caesar salad, and dessert at the conclusion of the tournament
-    </div>
-</div>
 {% endraw %}
