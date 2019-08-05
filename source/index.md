@@ -10,4 +10,4 @@ We look forward to the continued generosity and support of our faithful communit
 <br>
 Come join the families, the community and supporters of St. Mary's Catholic School as we "tee off" for our 6th Annual Golf Tournament on August 17, 2019 at CenterPoint Golf Course in Canandaigua NY! Dinner, including BBQ chicken, macaroni and cheese, salad, and dessert will be served at the conclusion of the tournament for all golf participants and other non-golfers who purchase a “Dinner Only” ticket. Please go to the <a href="/eventdetails/">Event Details</a> page for more details.
 <br>
-Please browse this website to see how you can get in on the fun and be sure to check back regularly for further updates as plans progress. Most importantly, help us spread the word about the St. Mary’s Catholic School 4th Annual Golf Tournament!!
+Please browse this website to see how you can get in on the fun and be sure to check back regularly for further updates as plans progress. Most importantly, help us spread the word about the St. Mary’s Catholic School 6th Annual Golf Tournament!!
